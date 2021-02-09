@@ -1,0 +1,17 @@
+105.157.241.80 | 19/11/2020 02:56:45 PM | Morocco | iPhone | Handheld Browser
+105.157.241.80 | 19/11/2020 03:05:45 PM | Morocco | iPhone | Handheld Browser
+105.157.241.80 | 19/11/2020 03:06:45 PM | Morocco | iPhone | Handheld Browser
+41.62.247.119 | 19/11/2020 03:12:06 PM | Tunisia | Android | Handheld Browser
+41.62.247.119 | 19/11/2020 04:38:22 PM | Tunisia | Android | Handheld Browser
+160.179.40.41 | 20/11/2020 01:43:53 AM | Morocco | iPhone | Handheld Browser
+160.179.40.41 | 20/11/2020 11:51:03 AM | Morocco | iPhone | Handheld Browser
+196.70.45.25 | 20/11/2020 12:56:29 PM | Morocco | iPhone | Handheld Browser
+105.154.167.145 | 21/11/2020 09:07:38 PM | Morocco | iPhone | Handheld Browser
+105.157.242.40 | 22/11/2020 05:01:07 PM | Morocco | iPhone | Handheld Browser
+196.70.8.105 | 23/11/2020 11:05:19 AM | Morocco | iPhone | Handheld Browser
+196.70.8.105 | 23/11/2020 02:55:42 PM | Morocco | iPhone | Handheld Browser
+41.251.173.58 | 24/11/2020 01:41:09 AM | Morocco | iPhone | Handheld Browser
+196.65.94.57 | 28/11/2020 04:20:22 PM | Morocco | iPhone | Handheld Browser
+196.70.61.138 | 12/12/2020 10:03:30 AM | Morocco | iPhone | Handheld Browser
+197.15.194.231 | 13/12/2020 02:28:06 AM | Tunisia | Windows 10 | Chrome
+197.230.172.32 | 14/12/2020 12:43:28 PM | Morocco | Windows 7 | Chrome
